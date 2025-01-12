@@ -21,14 +21,7 @@ A modern microservices backend built with Node.js, Express, and TypeScript using
 
 ## Project Structure
 
-├── apps/
-│ ├── auth/ # Authentication service
-│ └── gateway/ # API Gateway service
-├── packages/
-│ └── typescript-config/ # Shared TypeScript config
-├── pnpm-lock.yaml # package manager lock file
-├── pnpm-workspace.yaml # scope of the workspace
-└── turbo.json # turbo configs
+![Project Structure](project-structure.png)
 
 ## Getting Started
 
