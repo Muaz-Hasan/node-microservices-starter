@@ -1,6 +1,6 @@
 # Node Express Microservices Backend
 
-A modern microservices backend built with Node.js, Express, and TypeScript using a monorepo structure.
+A modern microservices backend built with Node.js, Express, and TypeScript using a monorepo structure, using turbo as the build tool and pnpm as the package manager.
 
 ## Tech Stack
 
@@ -26,15 +26,15 @@ A modern microservices backend built with Node.js, Express, and TypeScript using
 ## Getting Started
 
 1. Clone the repository:
-   git clone https://github.com/Muaz-Hasan/node-microservices-starter.git
+   `git clone https://github.com/Muaz-Hasan/node-microservices-starter.git`
 
-   cd node-express-microservices-backend
+   `cd node-express-microservices-backend`
 
 2. Install dependencies:
-   pnpm install
+   `pnpm install`
 
 3. Start the development environment:
-   pnpm run dev # or turbo dev
+   `pnpm run dev` # or `turbo dev`
 
 ## Available Scripts
 
